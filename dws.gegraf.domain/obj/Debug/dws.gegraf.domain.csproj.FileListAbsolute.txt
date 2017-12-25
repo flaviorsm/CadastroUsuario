@@ -1,0 +1,11 @@
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.domain\bin\Debug\dws.gegraf.domain.dll.config
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.domain\bin\Debug\dws.gegraf.domain.dll
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.domain\bin\Debug\dws.gegraf.domain.pdb
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.domain\bin\Debug\EntityFramework.dll
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.domain\bin\Debug\MySql.Data.dll
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.domain\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.domain\bin\Debug\EntityFramework.xml
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.domain\obj\Debug\dws.gegraf.domain.dll
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.domain\obj\Debug\dws.gegraf.domain.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dws.gegraf.domain", "dws.gegraf.domain\dws.gegraf.domain.csproj", "{D6141C72-3E5C-445D-B9C7-779EC36EA711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dws.gegraf.infrastructure", "dws.gegraf.infrastructure\dws.gegraf.infrastructure.csproj", "{F470936F-5AF5-4607-9DC7-46268725406B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dws.gegraf.api", "dws.gegraf.api\dws.gegraf.api.csproj", "{E246E0E1-BC84-4B38-BAE7-51D757456B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6141C72-3E5C-445D-B9C7-779EC36EA711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6141C72-3E5C-445D-B9C7-779EC36EA711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6141C72-3E5C-445D-B9C7-779EC36EA711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6141C72-3E5C-445D-B9C7-779EC36EA711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F470936F-5AF5-4607-9DC7-46268725406B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F470936F-5AF5-4607-9DC7-46268725406B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F470936F-5AF5-4607-9DC7-46268725406B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F470936F-5AF5-4607-9DC7-46268725406B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E246E0E1-BC84-4B38-BAE7-51D757456B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E246E0E1-BC84-4B38-BAE7-51D757456B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E246E0E1-BC84-4B38-BAE7-51D757456B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E246E0E1-BC84-4B38-BAE7-51D757456B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

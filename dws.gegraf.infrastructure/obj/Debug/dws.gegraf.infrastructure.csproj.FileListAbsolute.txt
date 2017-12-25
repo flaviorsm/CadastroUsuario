@@ -1,0 +1,15 @@
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\bin\Debug\dws.gegraf.infrastructure.dll.config
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\bin\Debug\dws.gegraf.infrastructure.dll
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\bin\Debug\dws.gegraf.infrastructure.pdb
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\bin\Debug\dws.gegraf.domain.dll
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\bin\Debug\MySql.Data.dll
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\bin\Debug\dws.gegraf.domain.pdb
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\bin\Debug\dws.gegraf.domain.dll.config
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\obj\Debug\dws.gegraf.infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\obj\Debug\dws.gegraf.infrastructure.dll
+C:\Users\flavi\Google Drive\DWS\Projetos\gegraf\dws.gegraf\dws.gegraf.infrastructure\obj\Debug\dws.gegraf.infrastructure.pdb
